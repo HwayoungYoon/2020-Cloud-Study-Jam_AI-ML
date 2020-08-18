@@ -14,3 +14,7 @@
 
 - **Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias**
 [URL](https://www.qwiklabs.com/focuses/10605?parent=catalog)
+
+- **Explore Machine Learning Models with Explainable AI: Challenge Lab**
+(+ what-if-tool-challenge.ipynb)
+[URL](https://www.qwiklabs.com/focuses/12011?parent=catalog)
