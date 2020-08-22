@@ -20,3 +20,6 @@
 - **Explore Machine Learning Models with Explainable AI: Challenge Lab**
 (+ what-if-tool-challenge.ipynb)
 [URL](https://www.qwiklabs.com/focuses/12011?parent=catalog)
+
+- **Bayes Classification with Cloud Datalab, Spark, and Pig on Google Cloud Dataproc**
+[URL](https://www.qwiklabs.com/focuses/10899?parent=catalog)
