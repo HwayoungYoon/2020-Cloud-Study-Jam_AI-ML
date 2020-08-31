@@ -1,6 +1,6 @@
 # 2020 Cloud Study Jam - AI &amp; ML : Qwiklabs Practice
 
-학습 일자 : 2020년 08월 06일 ~ 2020년 월 일
+학습 일자 : 2020년 08월 06일 ~ 2020년 08월 22일
 
 - **AI Platform: Qwik Start**
 [URL](https://www.qwiklabs.com/focuses/581?parent=catalog)
